@@ -49,8 +49,8 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "B.M.B-TECH",
-      "required": false
+      "value": "MU.KHE.BI",
+      "required": true
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
